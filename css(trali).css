@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg {
+   
+
+    text-align: center;
+
+}
+
+.m {
+    margin: 5px;
+    margin-left: ;
+
+}
+
+.list {
+    list-style-type: none;
+    text-align: center;
+}
+
+.button {
+    border-radius: 5px;
+    margin: 5px;
+    color:black;
+    background-color: white;
+    border-style: solid;
+}
+
+.button2 {
+    background-color: black;
+    color: #66FCF1;
+    border-radius: 5px;
+}
+
+.bg-container {
+    background-color: #894bca;
+    height: 100%;
+    background-size: cover;
+}
+
+.select-store-container {
+    background-color: #ffffff;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    padding: 20px;
+}
+
+.bgnew {
+    background-color: white;
+    border-radius: 10px;
+    margin: 28px;
+    padding: 10px;
+
+}
+.ready{
+    background-color: gray;
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    margin: 0%;
+}
+.font1
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+.main-bg1{
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 8px;
+    
+}
+
+    .btn {
+        cursor: pointer;
+        border: 1px solid #3498db;
+        background-color: transparent;
+        height: 50px;
+        width: 200px;
+        color: #3498db;
+        font-size: 1.5em;
+        box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+       
+            
+            margin-right: 0;
+            margin-left:auto;
+            display:block;
+          
+}
+.newimage{
+    background-image: url(images/1st\ image.png); 
+    background-size: cover;
+}
+
+body, html {
+    height: 100%;
+  }
+  
+  .bg-new {
+    /* The image used */
+    background-image: url("images/1st\ image.png");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
